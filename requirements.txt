@@ -1,0 +1,14 @@
+# Core Data Science
+numpy>=1.26.4
+pandas>=2.3.3
+matplotlib>=3.10.8
+
+# Single-Cell & Multimodal Omics
+anndata>=0.10.0
+scanpy>=1.11.5
+mudata>=0.2.3
+muon>=0.1.7
+
+# Probabilistic Modeling & Annotation
+scvi-tools>=1.0.0
+celltypist>=1.6.3

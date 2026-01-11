@@ -1,12 +1,12 @@
-🧬 LSC Identification Model: Automated Training & Feature Engineering Pipeline
+## 🧬 LSC Identification Model: Automated Training & Feature Engineering Pipeline
 
 ML-Driven Precision Oncology: Automated Leukemic Stem Cell (LSC) Identification
 
-📌 Project Overview
+## 📌 Project Overview
 
 Distinguishing Leukemic Stem Cells (LSCs) from non-leukemic cells is a critical bottleneck in treating T-cell lymphoblastic leukemia (T-ALL). This project implements a high-precision classification model that integrates multi-omic signatures—including chromatin opening, RNA, and surface epitopes—to automate identification and accelerate therapeutic pathfinding.
 
-🚀 Key Results
+## 🚀 Key Results
 
 - High-Fidelity Accuracy: Achieved >95% accuracy (with a test set performance of 99.9%) in identifying LSCs from novel transcriptomic inputs.
 
@@ -14,7 +14,7 @@ Distinguishing Leukemic Stem Cells (LSCs) from non-leukemic cells is a critical 
 
 - Multi-Platform Robustness: Validated across diverse high-throughput sequencing technologies, including TEA-seq, CITE-seq, and scRNA-seq.
 
-🛠️ Technical Implementation
+## 🛠️ Technical Implementation
 
 - Core Architecture: Stochastic Gradient Descent (SGD) based classifier engineered via the CellTypist framework.
 
@@ -22,7 +22,7 @@ Distinguishing Leukemic Stem Cells (LSCs) from non-leukemic cells is a critical 
 
 - Pre-processing: Implemented custom normalization and scaling (MinMaxScaler) pipelines for high-dimensional genomic data.
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 Plaintext
 
@@ -30,13 +30,14 @@ Plaintext
 ├── requirements.txt           # Environment dependencies
 └── README.md                  # Project documentation
 
-⚙️ Getting Started
+## ⚙️ Getting Started
 
-Prerequisites:
+### Prerequisites:
+
 1. Python 3.9+
 2. High-Performance Computing (HPC) environment recommended for multi-terabyte datasets
 
-Installation:
+### Installation:
 
 Bash
 git clone https://github.com/yourusername/LSC-Identification-Model.git

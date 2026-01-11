@@ -1,4 +1,4 @@
-## 🧬 LSC Identification Model: Automated Training & Feature Engineering Pipeline
+# 🧬 LSC Identification Model: Automated Training & Feature Engineering Pipeline
 
 ML-Driven Precision Oncology: Automated Leukemic Stem Cell (LSC) Identification
 
